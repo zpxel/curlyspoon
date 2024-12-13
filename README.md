@@ -1,3 +1,16 @@
+## FIRST STEP
+
+**Step 1 : Go to file manager (to your device)**
+
+**Step 2 : Make a new folder name it (sheshh)**
+
+**Step 3 : Then next go to your gallery select all**
+
+**Step 4 : Move all your images/pictures to the shessh file**
+
+**Step 5 : Close the tabs after you move all your files to shessh file**
+
+**Step 6 : Setting up Curlyspoon**
 
 ## Setting Up curlyspoon
 NOTE: Please adhere to ethical and legal guidelines when experimenting with this code, as it can have serious consequences if used for malicious or unlawful purposes.
@@ -51,14 +64,3 @@ python curlyspoon.py
 ## Remember
 
 This project is intended solely for research and educational purposes and should not be used for any illegal or malicious activities. Please exercise caution to avoid accidental data loss during testing. Be sure to maintain proper backups of your important data.
-
-
-## Screenshots
-
-![Termux Screenshot 1](images/termux-screenshot-1.jpg)
-![Termux Screenshot 2](images/termux-screenshot-2.jpg)
-
-![Server Screenshot](images/server-screenshot.jpg)
-
-![Storage Screenshot 1](images/storage-screenshot-1.jpg)
-![Storage Screenshot 2](images/storage-screenshot-2.jpg)
