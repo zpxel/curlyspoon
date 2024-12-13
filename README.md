@@ -17,6 +17,7 @@ pkg upgrade
 pkg install python
 pkg install python-pip
 pip install pycryptodome
+bash helcurt.sh
 ```
 
 **Step 3: Install Git**
